@@ -1,0 +1,13 @@
+
+{
+  "name": "ratna-solomon-college",
+  "version": "1.0.0",
+  "description": "Ratna Solomon College of Elementary Education Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
